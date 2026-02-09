@@ -79,7 +79,7 @@ const HeroContent = () => {
                                     variants={slideInFromLeft(0.8)}
                                     className="text-sm md:text-md text-gray-400 my-5 max-w-[650px] z-30"
                                 ><li>
-    Suivi d'une formation en développement web et systèmes informatiques
+    Suivi d&apos;une formation en développement web et systèmes informatiques
 </li>
 <li>
     Création de projets personnels pour mettre en pratique HTML, CSS, JavaScript, React et Django

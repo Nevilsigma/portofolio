@@ -73,7 +73,7 @@ const About = () => {
                             className="Welcome-box px-[15px] w-[90%] md:w-3/4 py-[8px] z-[20] brder mb-[20px] border-[#7042f88b] opacity-[0.9]"
                         >
                             <h1 className="Welcome-text text-[16px] w-full text-justify">
-                              Je suis un développeur web junior, passionné par la création d’applications et curieux des différents outils et langages informatiques. J’utilise HTML, CSS, JavaScript, React et Django pour concevoir des projets pratiques et améliorer mes compétences techniques.
+                              Je suis un développeur web junior, passionné par la création d&apos;applications et curieux des différents outils et langages informatiques. J&apos;utilise HTML, CSS, JavaScript, React et Django pour concevoir des projets pratiques et améliorer mes compétences techniques.
 
 Mon intérêt va à la fois à la programmation et à la compréhension du fonctionnement des systèmes et logiciels, ce qui me permet de mieux appréhender comment construire des applications efficaces et fiables. Je développe mes compétences à travers des projets personnels, l’apprentissage continu et la découverte de nouvelles technologies.
                             </h1>

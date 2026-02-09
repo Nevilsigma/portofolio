@@ -4,7 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { slideInFromBottom, slideInFromLeft, slideInFromRight, slideInFromTop } from "@/utils/motion";
 import { InView } from "react-intersection-observer";
-
+import Image from 'next/image'
 const About = () => {
     return (
         <section
@@ -42,7 +42,7 @@ const About = () => {
                             className="flex flex-col items-center w-[250px] h-[250px] rounded-full overflow-hidden border-[6px] border-[#7042f88b] bg-gradient-to-r from-purple-500 to-cyan-500"
 
                         >
-                            <img src="/nevil.png" alt="profile" width={250} />
+                            <Image src="/nevil.png" alt="profile" width={250} height={100}/>
                         </motion.div>
                     )}
                 </InView>
